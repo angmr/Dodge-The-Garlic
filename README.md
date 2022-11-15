@@ -1,7 +1,7 @@
-# Godot3_dodge
-"Dodge the Creeps!"  Godot Engine 3.0 "getting started" game demonstrating the basics.
+# Dodge The Garlic
+This is the famous Dodge The Creeps game used for learning the Godot game engine but with a twist.
+This version has lots of added features and improvements, plus original artwork.
 
-This game is a companion to the Godot Engine 3.0 Getting Started Guide: http://docs.godotengine.org/en/latest/getting_started/step_by_step/your_first_game.html
 It is a game intended to demonstrate the following fundamental concepts of Godot development:
 
 *  Node and scene structure
