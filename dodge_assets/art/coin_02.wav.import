@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/coin_02.wav-f724fca4d7c147d71db6e4188913de23.sample"
+
+[deps]
+
+source_file="res://dodge_assets/art/coin_02.wav"
+dest_files=[ "res://.import/coin_02.wav-f724fca4d7c147d71db6e4188913de23.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
